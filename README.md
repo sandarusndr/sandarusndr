@@ -35,4 +35,4 @@
 
 ### 📫 Let's Connect
 - **Email:** sandaruvidushan@gmail.com
-- **LinkedIn:** [Sandaru Vidushan]([https://linkedin.com/in/your-profile-link](https://www.linkedin.com/in/sandaru-vidushan/))
+- **LinkedIn:** [Sandaru Vidushan]([[https://www.linkedin.com/in/sandaru-vidushan/]]
